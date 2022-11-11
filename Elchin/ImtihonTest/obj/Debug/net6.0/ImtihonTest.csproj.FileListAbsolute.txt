@@ -1,0 +1,15 @@
+C:\Users\Evoo\Desktop\ImtihonTest\bin\Debug\net6.0\ImtihonTest.exe
+C:\Users\Evoo\Desktop\ImtihonTest\bin\Debug\net6.0\ImtihonTest.deps.json
+C:\Users\Evoo\Desktop\ImtihonTest\bin\Debug\net6.0\ImtihonTest.runtimeconfig.json
+C:\Users\Evoo\Desktop\ImtihonTest\bin\Debug\net6.0\ImtihonTest.dll
+C:\Users\Evoo\Desktop\ImtihonTest\bin\Debug\net6.0\ImtihonTest.pdb
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.csproj.AssemblyReference.cache
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.AssemblyInfoInputs.cache
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.AssemblyInfo.cs
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.csproj.CoreCompileInputs.cache
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.dll
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\refint\ImtihonTest.dll
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.pdb
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ImtihonTest.genruntimeconfig.cache
+C:\Users\Evoo\Desktop\ImtihonTest\obj\Debug\net6.0\ref\ImtihonTest.dll
