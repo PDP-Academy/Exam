@@ -1,0 +1,15 @@
+E:\c#\1Project\examModul3\examModul3\bin\Debug\net6.0\examModul3.exe
+E:\c#\1Project\examModul3\examModul3\bin\Debug\net6.0\examModul3.deps.json
+E:\c#\1Project\examModul3\examModul3\bin\Debug\net6.0\examModul3.runtimeconfig.json
+E:\c#\1Project\examModul3\examModul3\bin\Debug\net6.0\examModul3.dll
+E:\c#\1Project\examModul3\examModul3\bin\Debug\net6.0\examModul3.pdb
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.csproj.AssemblyReference.cache
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.AssemblyInfoInputs.cache
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.AssemblyInfo.cs
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.csproj.CoreCompileInputs.cache
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.dll
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\refint\examModul3.dll
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.pdb
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\examModul3.genruntimeconfig.cache
+E:\c#\1Project\examModul3\examModul3\obj\Debug\net6.0\ref\examModul3.dll
