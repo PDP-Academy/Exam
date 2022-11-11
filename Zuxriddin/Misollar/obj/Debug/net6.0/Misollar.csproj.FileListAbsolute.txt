@@ -1,0 +1,15 @@
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\bin\Debug\net6.0\Misollar.exe
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\bin\Debug\net6.0\Misollar.deps.json
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\bin\Debug\net6.0\Misollar.runtimeconfig.json
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\bin\Debug\net6.0\Misollar.dll
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\bin\Debug\net6.0\Misollar.pdb
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.csproj.AssemblyReference.cache
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.AssemblyInfoInputs.cache
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.AssemblyInfo.cs
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.csproj.CoreCompileInputs.cache
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.dll
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\refint\Misollar.dll
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.pdb
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\Misollar.genruntimeconfig.cache
+C:\Users\zuxri\Desktop\GitProject\Homework\20221031\Misollar\obj\Debug\net6.0\ref\Misollar.dll
