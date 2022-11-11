@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdpexam", "pdpexam.csproj", "{890E6BC1-D5D1-496F-B103-BCB519A944DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890E6BC1-D5D1-496F-B103-BCB519A944DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890E6BC1-D5D1-496F-B103-BCB519A944DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890E6BC1-D5D1-496F-B103-BCB519A944DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890E6BC1-D5D1-496F-B103-BCB519A944DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE18D15-BDED-46BB-B650-4D78AA944FE1}
+	EndGlobalSection
+EndGlobal
