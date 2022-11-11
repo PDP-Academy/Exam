@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GT3pw3nphNSied7+mndQGB1i9ihkHQGWScrp4I89kfxlAQ/w+f/TuRD6DV2Rs+oD6LPM76gLi9HN9H0ElTXacw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio projects\\Namoz Vaqti bot\\ExamModul3\\ExamModul3\\ExamModul3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shohruzbek\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Shohruzbek\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
