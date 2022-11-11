@@ -1,0 +1,15 @@
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/bin/Debug/net6.0/pdpExam1
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/bin/Debug/net6.0/pdpExam1.deps.json
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/bin/Debug/net6.0/pdpExam1.runtimeconfig.json
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/bin/Debug/net6.0/pdpExam1.dll
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/bin/Debug/net6.0/pdpExam1.pdb
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.csproj.AssemblyReference.cache
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.AssemblyInfoInputs.cache
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.AssemblyInfo.cs
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.csproj.CoreCompileInputs.cache
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.dll
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/refint/pdpExam1.dll
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.pdb
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/pdpExam1.genruntimeconfig.cache
+/Users/nurilloh/Desktop/exam pdp/pdpExam1/obj/Debug/net6.0/ref/pdpExam1.dll
