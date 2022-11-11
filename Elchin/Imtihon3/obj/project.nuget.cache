@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvZkGHAbPoHORjLVsVQBEggpNURVWc5t/JopXnp4LAiFeZlV9/d70N5stRHHRDHsXKIbLJjuTyIYFHz1YtrsUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Evoo\\Desktop\\Imtihon3\\Imtihon3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evoo\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\Evoo\\.nuget\\packages\\litedb\\5.0.9\\litedb.5.0.9.nupkg.sha512",
+    "C:\\Users\\Evoo\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Evoo\\.nuget\\packages\\sb.telegrambot\\1.0.72\\sb.telegrambot.1.0.72.nupkg.sha512",
+    "C:\\Users\\Evoo\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Evoo\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Evoo\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
